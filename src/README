@@ -1,0 +1,13 @@
+-- How to compile
+    In “HW5/src”, enter the following command:
+    $ make
+    It will generate the executable file "hw5" in "HW5/bin".
+
+    If you want to remove it, enter the following command:
+    $ make clean
+
+-- How to run
+    In “HW5/src”, enter the following command:
+    Usage: ../bin/<exe> <input file> <output file>
+    e.g.:
+   	$ ../bin/hw5 ../testcase/ibm01.modified.txt ../output/ibm01.result

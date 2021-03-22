@@ -17,7 +17,7 @@ public:
     }
 
     bool overflow(){
-        return supply < demand;
+        return supply <= demand;
     }
 
     int row;
