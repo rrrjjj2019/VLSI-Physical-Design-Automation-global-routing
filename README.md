@@ -37,10 +37,10 @@ your own algorithm to solve the global routing problem with a set of 2-pin nets.
 <br>
 
 
-* Test case: ibm04
+* Legend
 <br>
 <p align="center">
-<img src="https://github.com/rrrjjj2019/VLSI-Physical-Design-Automation-global-routing/blob/master/legend.JPG" width="200" style="margin-right:5px; border: 1px solid #ccc;" />
+<img src="https://github.com/rrrjjj2019/VLSI-Physical-Design-Automation-global-routing/blob/master/legend.JPG" width="120" style="margin-right:5px; border: 1px solid #ccc;" />
 </p>
 <br>
 
